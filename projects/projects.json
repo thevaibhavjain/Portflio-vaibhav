@@ -11,7 +11,7 @@
   },
   {
     "name": "E-Pharmacy MERN",
-    "desc": "E-Pharmacy MERN is a sophisticated web platform built on the MERN stack, providing users with a seamless experience to browse, purchase, and manage pharmaceutical products, prescriptions, and healthcare information online.",
+    "desc": "E-Pharmacy is a sophisticated web platform providing users with a seamless experience to purchase, and manage pharmaceutical products and prescriptions.",
     "image": "pharmacymern",
     "category": "mern",
     "links": {
